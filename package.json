@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-teamgantt",
+  "version": "1.0.0",
+  "description": "Lint rules used by TeamGantt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamgantt/eslint-config-teamgantt.git"
+  },
+  "keywords": [
+    "eslint",
+    "teamgantt"
+  ],
+  "author": "TeamGantt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamgantt/eslint-config-teamgantt/issues"
+  },
+  "homepage": "https://github.com/teamgantt/eslint-config-teamgantt#readme",
+  "dependencies": {
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
