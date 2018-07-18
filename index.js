@@ -42,6 +42,7 @@ module.exports = {
     "no-dupe-keys": 2,
     "no-underscore-dangle": 0,
     "no-undef": 2,
+    "max-lines": 2,
     "react/jsx-boolean-value": [2, "always"],
     "react/jsx-indent-props": [2, 2],
     "react/jsx-no-duplicate-props": [2, { "ignoreCase": true }],
