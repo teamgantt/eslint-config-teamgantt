@@ -22,9 +22,9 @@
   "homepage": "https://github.com/teamgantt/eslint-config-teamgantt#readme",
   "dependencies": {
     "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-react": "^6.10.3"
+    "eslint-plugin-react": "^7.11.1"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 5"
   }
 }
