@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-teamgantt",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Lint rules used by TeamGantt",
   "main": "index.js",
   "scripts": {
