@@ -60,9 +60,10 @@ module.exports = {
     "react/react-in-jsx-scope": 2,
     "import/extensions": ["error", { js: "never", jsx: "never" }],
     "react/self-closing-comp": 2,
-    "react/sort-comp": 2
+    "react/sort-comp": 2,
+    "react-hooks/rules-of-hooks": "error"
   },
-  plugins: ["react", "import"],
+  plugins: ["react", "react-hooks", "import"],
   globals: {
     require: false,
     document: false,
