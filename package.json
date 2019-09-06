@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-teamgantt",
-  "version": "2.0.1",
-  "description": "Lint rules used by TeamGantt",
+  "name": "@teamgantt/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint rules used by TeamGantt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,8 @@
   "homepage": "https://github.com/teamgantt/eslint-config-teamgantt#readme",
   "dependencies": {
     "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-react": "^7.11.1"
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react-hooks": "^2.0.1"
   },
   "peerDependencies": {
     "eslint": ">= 5"
